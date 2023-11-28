@@ -552,5 +552,18 @@ footer div {
     
 
 }
+@media(max-width:560px){
+    .allItems .item {
+        max-width: none;
+        width: 90%;
+        height: 400px;
+
+    }
+
+    .allItems {
+        flex-direction: column;
+    }
+
+}
 
 
