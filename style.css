@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-/* Style du corps de la page */
+
 body {
     font-family: 'Helvetica Neue', sans-serif;
     background-color: #ffff;
@@ -15,7 +15,7 @@ body {
     overflow-y: auto;
 }
 
-/* Style de l'en-tête */
+
 header {
     background-color: #ffffff00;
     color: #fff;
